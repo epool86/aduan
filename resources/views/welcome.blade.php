@@ -31,14 +31,14 @@
             }
 
             .title {
-                font-size: 96px;
+                font-size: 60px;
             }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Selamat Datang</div>
+                <div class="title">Selamat Datang Manusia</div>
             </div>
         </div>
     </body>
