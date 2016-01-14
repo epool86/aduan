@@ -12,7 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('test.index');
+    return view('welcome');
+	//eturn 'haha';
 });
 
 Route::get('/test', function(){
