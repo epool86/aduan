@@ -21,7 +21,8 @@ Route::get('/test', function(){
 });
 
 Route::get('/faq', function(){
-	return view('faq.index');
+	//return view('faq.index');
+	return view('faq.one');
 });
 
 /*
