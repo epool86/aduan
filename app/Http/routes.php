@@ -20,6 +20,10 @@ Route::get('/test', function(){
 	return view('test.index');
 });
 
+Route::get('/faq', function(){
+	return view('faq.index');
+});
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
